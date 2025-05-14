@@ -1,5 +1,5 @@
 # Coffee Shop Sales Analysis
-![Coffee Background Banner (4)](smeeling-coffee-beans_900x_5148e663-e441-4642-af81-ade43296e6b5_900x.jpg)
+![Coffee Background Banner (4)]![Image](https://github.com/user-attachments/assets/b0a1bd7a-232c-4249-8397-34abfce76b78)
 
 ## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
