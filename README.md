@@ -5,7 +5,7 @@
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
 
 ## Tool used :
-![Image](https://github.com/user-attachments/assets/1eddae9f-e390-4648-b530-5b9e28fd9e59)
+![Image](https://github.com/user-attachments/assets/69ee4fbe-043d-4b48-b689-44d28e094121)
 
 
 ## Result and Insights :
